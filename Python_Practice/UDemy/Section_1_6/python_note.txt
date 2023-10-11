@@ -1,0 +1,33 @@
+Iterables:
+If you can use a for loop to interate thought then it is an Iterables
+Can use slicing with Iterables
+iterables are sequences
+
+Immutables:
+int
+float
+bool
+str
+tuple
+frozenset
+bytes
+
+Mutables:
+Lists
+
+split - splits strings into words
+
+Tuples - Immutable sequence, saves memory due to no methods, preserve integrity of data
+Can always unpack tuple successfully
+
+Functions
+Parameters versus arguments
+parameter variable only exist int he function (scope)
+Functions that perform actions (formerly procedures) or return a result (not both!)
+Return None
+Default Values for Parameters
+Positional, keyword
+Docstrings used to document what the function does
+Function annotations
+Type hints are used for variables in the main program
+Types of parameters: var-keyword, positional-only, positional, var-positional, keyword

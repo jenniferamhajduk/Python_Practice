@@ -1,0 +1,10 @@
+In the next few videos about Python dictionaries, Tim demonstrates the ordering of dictionary keys changing, each time he runs the program.
+
+That behaviour has now changed.  Since Python version 3.6, the original ordering of the keys is preserved.
+
+That means you won't see random behaviour, when printing the dictionary keys.
+
+The advice in the lectures is still valid: if your code relies on processing the dictionary keys in a specific order, then sort them first.
+
+key-value pairs that are accessed by means of the key, not an index
+
